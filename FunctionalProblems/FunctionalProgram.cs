@@ -8,25 +8,22 @@ namespace FunctionalProblems
 {
     internal class FunctionalProgram
     {
-        public void LargestNumber()
-        {
-            int a = 20;
-            int b = 10;
-            int c = 50;
+        public void  QuetientRemainder()
+       {
+            int Quetient = 0, Remainder = 0;
 
-            if(a > b && a > c)
-            {
-                Console.WriteLine("a is the largest Number");
-            }
-            else if (b> c && b>a)
-            {
-                Console.WriteLine("b is the largest Number");
-            }
-            else
-            {
-                Console.WriteLine("c is the largest number");
+            Console.WriteLine("enter any number");
+            int n = Convert.ToInt32(Console.ReadLine());
+
+            Quetient = n / 10;
+            Remainder = n % 10;
+
+            Console.WriteLine("Quetient of given number is {0}", Quetient );
+
+            Console.WriteLine("Remainder of given number is {0}", Remainder);
+           
             }
            
         }
     }
-}
+

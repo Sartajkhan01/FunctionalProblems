@@ -6,7 +6,7 @@
         {
 
             FunctionalProgram obj = new FunctionalProgram();
-            obj.LargestNumber();
+            obj.QuetientRemainder();
         }
     }
 }
