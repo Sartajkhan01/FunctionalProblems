@@ -8,19 +8,25 @@ namespace FunctionalProblems
 {
     internal class FunctionalProgram
     {
-        public void swaping()
+        public void LargestNumber()
         {
             int a = 20;
-            int b = 40;
+            int b = 10;
+            int c = 50;
 
-            Console.WriteLine("values before Swaping a = {0} ,b = {1}", a , b);
-
-            a = a + b;
-            b = a - b;
-            a = a - b;
-            Console.WriteLine("Values after Swaping a = {0}, b = {1}",a , b);
-
-            Console.ReadLine();
+            if(a > b && a > c)
+            {
+                Console.WriteLine("a is the largest Number");
+            }
+            else if (b> c && b>a)
+            {
+                Console.WriteLine("b is the largest Number");
+            }
+            else
+            {
+                Console.WriteLine("c is the largest number");
+            }
+           
         }
     }
 }

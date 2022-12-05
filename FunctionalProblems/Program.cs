@@ -6,7 +6,7 @@
         {
 
             FunctionalProgram obj = new FunctionalProgram();
-            obj.swaping();
+            obj.LargestNumber();
         }
     }
 }
