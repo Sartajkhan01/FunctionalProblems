@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
-            LeapYear obj = new LeapYear();
-            obj.Leapyear();
+
+            EvenOddNumber obj = new EvenOddNumber();
+            obj.OddEven();
         }
     }
 }
