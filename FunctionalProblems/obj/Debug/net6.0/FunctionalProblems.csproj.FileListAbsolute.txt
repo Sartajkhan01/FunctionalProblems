@@ -1,0 +1,15 @@
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\bin\Debug\net6.0\FunctionalProblems.exe
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\bin\Debug\net6.0\FunctionalProblems.deps.json
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\bin\Debug\net6.0\FunctionalProblems.runtimeconfig.json
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\bin\Debug\net6.0\FunctionalProblems.dll
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\bin\Debug\net6.0\FunctionalProblems.pdb
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\obj\Debug\net6.0\FunctionalProblems.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\obj\Debug\net6.0\FunctionalProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\obj\Debug\net6.0\FunctionalProblems.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\obj\Debug\net6.0\FunctionalProblems.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\obj\Debug\net6.0\FunctionalProblems.csproj.CoreCompileInputs.cache
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\obj\Debug\net6.0\FunctionalProblems.dll
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\obj\Debug\net6.0\refint\FunctionalProblems.dll
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\obj\Debug\net6.0\FunctionalProblems.pdb
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\obj\Debug\net6.0\FunctionalProblems.genruntimeconfig.cache
+C:\Users\Sartaj khan\source\repos\FunctionalProblems\FunctionalProblems\obj\Debug\net6.0\ref\FunctionalProblems.dll
