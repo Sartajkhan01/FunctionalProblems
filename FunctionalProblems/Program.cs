@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
 
-            EvenOddNumber obj = new EvenOddNumber();
-            obj.OddEven();
+            FunctionalProgram obj = new FunctionalProgram();
+            obj.swaping();
         }
     }
 }
